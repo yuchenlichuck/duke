@@ -1,6 +1,12 @@
 package seedu.duke;
 
+/**
+ * Entry point.
+ */
 public class Duke {
+    /**
+     * Start here.
+     */
     public static void main(String[] args) {
         String logo = " ____        _        \n"
                 + "|  _ \\ _   _| | _____ \n"
